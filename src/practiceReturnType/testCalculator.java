@@ -21,7 +21,8 @@ public class testCalculator {
 		Calculator5 cal5 = new Calculator5();
 		cal5.addition("12", 60, "53");
 		
-		
+		Calculator6 cal6 =new Calculator6();
+		cal6.multiplication();
 
 	}
 

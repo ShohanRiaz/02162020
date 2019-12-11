@@ -2,6 +2,7 @@ package constructor;
 
 public class Student {
 	
+	
 	public String Name; //global variable //class variable
 	public int id;
 	public char grade;
@@ -30,9 +31,10 @@ public class Student {
 	public static void main(String[] args) {
 		Student st1 = new Student(); //initialization of default constructor or constructor1
 		st1.schoolName();
-		Student st2 = new Student("Shohan", 007, 'A', true); //"Shohan", 007, A, TRUE --- they are called argument// constructor 
+		Student st2 = new Student("Shohan", 007, 'A', true); //"Shohan", 007, A, TRUE --- they are called argument// constructor 3 is initialize
 		Student st3 = new Student("Tofael", 8); //initialization of constructor2
 		Student st4 = new Student("Dalia", 9, 'A', true);//initialization of constructor3
 		}
+		}
 
-}
+

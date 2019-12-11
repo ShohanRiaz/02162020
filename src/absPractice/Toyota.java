@@ -3,6 +3,26 @@ package absPractice;
 //a class can implement more than one interface
 // a class can extend only one abstract class
 public class Toyota extends FlyingCar implements Car, ElectricCar{
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public void price() {//in class, method can't be declared, can be implemented
 		System.out.println("The price for Toyota is reasonable");
 	}
