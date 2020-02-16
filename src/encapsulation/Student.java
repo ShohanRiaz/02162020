@@ -7,10 +7,7 @@ public class Student {
 	private char grade;
 	private boolean weeklyStudent;
 	
-	
-	
-	
-	
+		
 	public String getName() {
 		return Name;
 	}
